@@ -1,9 +1,3 @@
-
-// import main, { add, subtract } from './math.js'
-// console.log(add(1, 2))
-// console.log(subtract(2, 1))
-// main()
-
 //Please add all Javascript code to this file.
 
 //Selects the App element in the html
